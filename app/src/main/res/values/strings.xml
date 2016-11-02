@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBoxDemo</string>
+    <string name="title_name">请选择你的爱好：</string>
+    <string name="hobby1">敲代码</string>
+    <string name="hobby2">打游戏</string>
+    <string name="hobby3">听音乐</string>
+    <string name="btn_true">确定</string>
+    <string name="cb_all">全选</string>
+</resources>
